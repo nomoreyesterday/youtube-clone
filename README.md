@@ -1,4 +1,4 @@
-#youtube-clone app 
+# youtube-clone app 
 React Typescript Tailwind
 
 This is clone youtube with chatbox live mode
